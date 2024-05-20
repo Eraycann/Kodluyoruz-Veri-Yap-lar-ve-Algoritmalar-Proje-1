@@ -52,3 +52,18 @@ A:
 > Örnek bir Selection Sort:
 
 <img width="400" height="480" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*5WXRN62ddiM_Gcf4GDdCZg.gif"></img>
+
+## Patika Hesabım
+
+[![Patika Profilim](https://img.shields.io/badge/Patika-Profilim-2ea44f?style=for-the-badge&logo=patika&logoColor=white)](https://academy.patika.dev/tr/profile)
+
+### Hakkımda
+
+- 💻 Yazılım Geliştirici
+- 🌱 Şu anda yeni teknolojiler öğreniyorum
+- 🤝 Açık kaynak projelere katkıda bulunmayı seviyorum
+
+## İletişim
+
+- [LinkedIn](https://www.linkedin.com/in/eraycan-sivri-827997226/)
+- [E-posta](mailto:eraycansivri@hotmail.com)
